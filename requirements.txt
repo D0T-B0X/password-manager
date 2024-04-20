@@ -1,0 +1,4 @@
+pyperclip==1.8.2
+tkinter=3.12.3
+random==3.12.3
+json==3.12.3
