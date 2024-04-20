@@ -87,7 +87,7 @@ def add_deets():
             weben.delete(0, END)
             passen.delete(0, END)
             emailen.delete(0, END)
-            emailen.insert(0, "aadikeshu2305@gmail.com")
+            emailen.insert(0, "<Your email here>")
             messagebox.showinfo(title=f"{new_email}", message="Success! \nYour credentials have been saved")
 
 
